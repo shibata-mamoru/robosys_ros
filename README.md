@@ -6,3 +6,4 @@
 1. ターミナル上で`roscore`を実行
 1. 別のターミナル上でrobosys2016/scripts ディレクトリに入る
 1. `rosrun robosys2016 primenum.py` を実行
+1. `rostopic echo /countprimenum` で値を表示
